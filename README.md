@@ -9,8 +9,8 @@
 [![📫 Connect with me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rald)
 
 <p align="center">
-  <h2>MY CODING SKILLS</h2> <br/>
+  <h2>Skills, Languages, and Tools</h2> <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,solidity,nodejs,py,pytorch,matlab,kubernetes,figma,styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,solidity,nodejs,py,pytorch,matlab,kubernetes,figma,styledcomponents,ai,vscode" />
   </a>
 </p>
