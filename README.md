@@ -5,13 +5,8 @@
 - 🌱 I’m currently learning everything related to enterprise-level blockchain, quantum computing, UX/UI design and data science.
 - 👯 I’m looking to collaborate on ethereum smart contracts development for DeFi, DAOs and NFTs application.
 - 💬 Ask me aything about blockchain and NFT.
-- 📫 Connect with me:
   
- <p align="center">
-  <a href="[https://linked.in/](https://www.linkedin.com/in/rald)">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+[![📫 Connect with me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rald)
 
 <p align="center">
   <h2>MY CODING SKILLS</h2> <br/>
