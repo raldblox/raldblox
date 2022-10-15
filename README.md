@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ethereum smart contracts development for DeFi, DAOs and NFTs application.
 - 💬 Ask me aything about blockchain and NFT.
 - 📫 Connect with me:
-- 
+
 [![📫 Connect with me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rald)
 
 <p align="center">
