@@ -11,6 +11,6 @@
 <p align="center">
   <h2>Skills, Languages, and Tools</h2> <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,solidity,nodejs,py,pytorch,matlab,kubernetes,figma,styledcomponents,ai,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,solidity,kubernetes,rust,nextjs,nodejs,py,pytorch,matlab,figma,styledcomponents,ai,blender,visualstudio" />
   </a>
 </p>
