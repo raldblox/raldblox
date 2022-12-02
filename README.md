@@ -1,4 +1,4 @@
-### Hi there, I'm Rald 👋
+### Hi there, I'm Raldblo[x]. 👋
 
 ## I am a web developer, mechanical engineer, financial trader and a pro-active problem-solver that strategically blend passion and creativity with my technical expertise.
 - 🔭 I’m currently working on an ecosystem of web tools, technologies, and applications that will work together providing a better web experience.
